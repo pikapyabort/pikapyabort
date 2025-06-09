@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./theme.gif" alt="Animated GIF" width="800"/>
+</p>
+
 # 👋 Привет, бедолаги!
 
 ## 🚀 О себе
@@ -10,7 +14,3 @@
 - Почта: pikapyabort@gmail.com  
 - Telegram: [@pikapyabort](https://t.me/pikapyabort)  
 ---
-
-<p align="center">
-  <img src="./theme.gif" alt="Animated GIF" width="400"/>
-</p>
