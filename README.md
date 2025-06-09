@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/your-animation.gif" alt="Animated GIF" width="400"/>
+  <img src="./zamay.gif" alt="Animated GIF" width="400"/>
 </p>
 
 # 👋 Привет, бедолаги!
