@@ -12,5 +12,5 @@
 ---
 
 <p align="center">
-  <img src="./zamay.gif" alt="Animated GIF" width="400"/>
+  <img src="./theme.gif" alt="Animated GIF" width="400"/>
 </p>
