@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./page.gif" alt="Animated GIF" width="700" height="30"/>
+  <img src="./page.gif" alt="Animated GIF" width="700" height="300"/>
 </p>
 
 # 👋 Привет, бедолаги!
