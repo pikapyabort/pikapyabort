@@ -11,7 +11,7 @@
 
 ## 🤝 Связаться со мной
 ---
-- Почта: pikapyabort@example.com  
+- Почта: pikapyabort@gmail.com  
 - Telegram: [@pikapyabort](https://t.me/pikapyabort)  
 ---
 
