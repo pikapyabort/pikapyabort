@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/your-animation.gif" alt="Animated GIF" width="400"/>
+</p>
 
-<!--
-**pikapyabort/pikapyabort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет, бедолаги!
 
-Here are some ideas to get you started:
+## 🚀 О себе
+- 🔭 учусь в МГТУ им. Баумана
+- 🌱 Изучаю Python, математическую статистику, машинное обучение.
+- 🐢 Люблю спорт, искусство и реп.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Связаться со мной
+---
+- Почта: pikapyabort@example.com  
+- Telegram: [@pikapyabort](https://t.me/pikapyabort)  
+---
+
