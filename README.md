@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./page.gif" alt="Animated GIF" width="800" height="350"/>
-</p>
-
 # 👋 Привет!
 
 ## 🚀 О себе
