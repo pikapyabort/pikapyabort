@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./zamay.gif" alt="Animated GIF" width="400"/>
-</p>
-
 # 👋 Привет, бедолаги!
 
 ## 🚀 О себе
@@ -15,3 +11,6 @@
 - Telegram: [@pikapyabort](https://t.me/pikapyabort)  
 ---
 
+<p align="center">
+  <img src="./zamay.gif" alt="Animated GIF" width="400"/>
+</p>
